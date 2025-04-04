@@ -15,7 +15,7 @@ Myglo-Core is an application that provides various AI-powered assistance feature
 ## Usage
 
 1. Navigate to the Sign-In page  and Sign-In with the available options.
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://myglo-core.streamlit.app)
+firstly, click this link to go to my site [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://myglo-core.streamlit.app).
 
 
 ## Configuration
@@ -26,4 +26,5 @@ Myglo-Core is an application that provides various AI-powered assistance feature
 ## Contact
 
 For any questions or suggestions, please open an issue or contact me at [valentinechibueze400@gmail.com](mailto:valentinechibueze400@gmail.com).
+Thank You.
 
